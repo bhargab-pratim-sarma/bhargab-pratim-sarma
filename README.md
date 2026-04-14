@@ -101,6 +101,13 @@ I use AI as a **force multiplier** in development while focusing on:
 
 ---
 
+## 🔒 Work Visibility Note
+
+Most of my active development happens in private/client repositories.  
+This profile highlights selected public architecture and system design work.
+
+---
+
 ## 🌐 Let's Connect
 
 - 💼 Open for freelance & backend system design work  
